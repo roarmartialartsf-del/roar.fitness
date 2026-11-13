@@ -44,6 +44,9 @@ export const metadata: Metadata = {
     images: [{ url: "/images/roar-mma-mural-canal-gardens-lahore.jpg", width: 1200, height: 630, alt: site.name }],
   },
   robots: { index: true, follow: true },
+  verification: {
+    google: "MSTKAEJpO7SlgHei3lR8bHB8OuOIZOIt-FuHVNT0QL8",
+  },
   icons: {
     icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
   },
